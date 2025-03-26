@@ -2,4 +2,3 @@
 BACKEND_API_URL: backend.swetha.store
 component: frontend
 app_location: /usr/share/nginx/html
-component: frontend
